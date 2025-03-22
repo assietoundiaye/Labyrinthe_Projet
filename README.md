@@ -22,6 +22,11 @@ Ce projet Java implémente une application de résolution de labyrinthes en util
 - Visualisation de la résolution par DFS et BFS en temps réel.
 - Comparaison des performances des deux algorithmes.
 
+## Source pour pouvoir realiser cette application
+- https://youtu.be/cU5c32EIg3I?si=hT9oJXuhr3TMp01w
+- https://youtu.be/0ol_PptA7rM?si=z-sP2ddJrXdF81lm
+- https://youtu.be/yeIlZyCyyw0?si=u6yZkHeH5NjyG1vD
+
 ## 📦 Installation
 1. Cloner le dépôt :
 ```bash
