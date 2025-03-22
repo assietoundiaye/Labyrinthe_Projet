@@ -1,5 +1,5 @@
 # Labyrinthe_Projet
-# Membre du groupe:
+# Membres du groupe:
 - Simon Ezéchiel KAMATE
 - Massina Sylvanus BASSENE
 - Assietou NDIAYE
